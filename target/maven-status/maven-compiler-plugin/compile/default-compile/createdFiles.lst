@@ -1,0 +1,12 @@
+com\storebook\Storebook\Controllers\MediaController.class
+com\storebook\Storebook\services\MediaService.class
+com\storebook\Storebook\services\ProductService.class
+com\storebook\Storebook\dao\ProductRepository.class
+com\storebook\Storebook\dao\MediaRepository.class
+com\storebook\Storebook\models\User.class
+com\storebook\Storebook\models\Media.class
+com\storebook\Storebook\models\Product.class
+com\storebook\Storebook\models\Category.class
+com\storebook\Storebook\models\Author.class
+com\storebook\Storebook\models\PaymentMethod.class
+com\storebook\Storebook\StoreBookApplication.class
